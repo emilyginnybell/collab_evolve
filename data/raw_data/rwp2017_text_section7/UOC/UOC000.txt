@@ -1,0 +1,1618 @@
+Section 7. Implementing
+Water Management Practices
+This Section presents the Council’s roadmap for
+implementing the water management practices
+identified in Section 6. As the State Water Plan
+indicates, this Regional Water Plan will be primarily
+implemented by the various water users in the Region
+along with the other responsible parties described
+below.
+Once adopted, this Regional Water Plan will be used
+to guide permitting decisions by GAEPD and guide
+the awarding of State grants and loans from the
+Georgia Environmental Finance Authority (GEFA) for
+water-related projects. And this plan can help inform
+and guide other GAEPD programs such as the
+awarding of Section 319(h) Nonpoint Source
+Implementation Grant funds.
+7.1 Implementation Schedule and Roles of Responsible Parties
+Tables 7-1(a) through 7-1(d) identify the short- and long-term actions needed to implement
+the Management Practices detailed in Tables 6-1(a) through 6-1(d) and the corresponding
+responsible parties for each series of actions. Actions for implementation are framed as initial
+activities expected to occur as short- or long-term actions. The Council has defined shortterm
+as occurring within the next five years and long-term as beyond the next five years. It is
+assumed that all long-term activities would occur after the 5-year Regional Water Plan
+update, allowing for the Council to revisit these actions using an adaptive management
+approach.
+While the bulk of implementation actions noted in Tables 7-1(a) through 7-1(d) fall to local
+governments and utilities and their respective RCs, extensive support for short term
+activities, in particular, will be needed from State entities, such as GAEPD, DCA, Georgia
+Department of Community Health (DCH), Division of Public Health, Environmental Health
+Section, and GEFA. This Regional Water Plan also assumes continued support from the
+Council in some capacity beyond its current 3-year appointment. Support from other
+organizations, such as the Association of County Commissioners of Georgia (ACCG),
+Georgia Green Industry Association (GGIA), Georgia Municipal Association (GMA), Georgia
+Rural Water Association (GRWA), and Georgia Association of Water Professionals (GAWP),
+will also be needed to implement the management practices in an efficient, cost-effective
+manner.
+7-2
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+June 2017
+7.1.1 Implementation of Water Conservation Management Practices
+Table 7-1(a) lists implementation details for the 10 Water Conservation Management
+Practices selected by the Council and detailed in Table 6-1(a). The list includes a wide
+variety of practices, such as practices that benefit all communities (e.g., WC-3, Implement
+education and public awareness program) and practices that may be appropriate for some
+communities, but not for others (e.g., WC-5, Encourage non-potable reuse). Each community
+will need to evaluate all the practices to determine which are appropriate for it to implement.
+Communities with Resource Assessment gaps or infrastructure needs/shortages are strongly
+encouraged to implement these Water Conservation practices to address these water
+resource issues. All communities will need to track and report on their implementation
+activities as described in Section 8 to help monitor progress in meeting the benchmarks.
+Table 7-1(a): Water Conservation Management Practice Implementation Schedule
+Management
+Practice
+Permittee
+Category of
+Responsible
+Partiesa
+Short-term Actions (Next 5
+Years)
+Long-term Actions (5 Years and
+Beyond)
+Responsible Parties b
+WC-1.
+Encourage
+conservation
+pricing
+MU
+Implement Conservation Pricing,
+if needed.
+Revise Rate Study and Rates, if needed.
+Local governments and
+utilities.
+WC-2.
+Develop water
+conservation
+goals
+MU
+ Identify achievable,
+measurable goals (and
+benchmarks) to help local
+governments evaluate
+progress and success in
+reducing water supply gaps
+through conservation.
+ Develop ways to track
+progress in meeting
+conservation goals and
+reporting of progress.
+ Administer Survey to gauge
+progress toward meeting water
+conservation goals during the short
+term.
+ Revise program during 5-year
+Regional Water Plan update, if
+necessary, to improve
+effectiveness.
+GAEPD and Regional
+Councils working with the RCs
+noted in Section 2.3 with
+support from organizations
+such as the ACCG, GMA,
+GRWA, and GAWP.
+WC-3.
+Encourage
+education and
+public
+awareness
+programs
+MU and MS4
+Implement the Education and
+Public Awareness program.
+ Administer Survey to gauge
+effectiveness of program during the
+short term.
+ Revise Education and Public
+Awareness program during 5-year
+Regional Water Plan update, if
+necessary, to improve
+effectiveness.
+Short-term Actions: Local
+governments noted in
+Section 2.1.1.
+Long-term Actions: GAEPD
+and Regional Councils
+working with the RC.
+WC-4.
+Encourage
+variable rate
+agricultural
+irrigation
+systems
+AG
+ Identify incentives to
+encourage the installation
+and use of variable rate
+irrigation systems.
+ Implement with the support
+of the GSWCC.
+ Integrate message regarding
+cost-effectiveness of variable
+rate irrigation into the Public
+Education and Awareness
+Program (see WC-3).
+ Evaluate requiring variable rate
+irrigation systems in water-limited
+areas.
+ Revise guidelines during 5-year
+Regional Water Plan update, if
+necessary, to improve
+effectiveness.
+Short-term Actions: GAEPD
+and GSWCC
+Long-term Actions: GAEPD,
+Regional Councils and
+GSWCC
+June 2017 7-3
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+Table 7-1(a): Water Conservation Management Practice Implementation Schedule
+Management
+Practice
+Permittee
+Category of
+Responsible
+Partiesa
+Short-term Actions (Next 5
+Years)
+Long-term Actions (5 Years and
+Beyond)
+Responsible Parties b
+WC-5.
+Encourage
+non-potable
+reuse
+MU and
+MUWW
+Develop implementation costs
+and assess feasibility of serving
+non-potable reuse water.
+Encourage industries to use reclaimed
+water for processes, such as cooling,
+when technically and economically
+feasible.
+GEFA, Industry, local
+governments, and utilities.
+WC-6.
+Encourage
+retrofitting of
+rain sensor
+shut-off
+switches on
+irrigation
+systems
+MU
+ Develop regional guidelines
+/ educational materials for
+local implementation.
+ Require installation or
+retrofitting to utilize irrigation
+systems that automatically
+shut off during rain events or
+moist soil conditions.
+ Integrate message
+regarding cost-effectiveness
+of variable rate irrigation into
+the Public Education and
+Awareness Program (see
+WC-3).
+ Require switches in water-limited
+areas and revise guidelines during
+5-year Regional Water Plan update,
+if necessary, to improve
+effectiveness.
+ Develop maintenance program to
+ensure long-term effectiveness of
+sensors.
+.
+Short-term Actions: Local
+governments and utilities.
+Long-term Actions: GAEPD
+and Regional Councils
+working with the RCs.
+WC-7.
+Encourage
+new car
+washes to
+recycle water
+MU and MS4
+ Develop regional guidelines /
+program materials or
+templates requiring all new
+car wash establishments to
+recycle wash water.
+Integrate with GAEPD’s
+existing Carwash BMP
+program
+ Implement with the support
+of the local government
+business licensing process.
+ Integrate message into the
+Public Education and
+Awareness Program (see
+WC-3).
+Revise guidelines during 5-year
+Regional Water Plan update, if
+necessary, to improve effectiveness.
+Short-term Actions: Local
+governments and utilities.
+Long-term Actions: GAEPD
+and Regional Councils
+working with the RCs.
+WC-8.
+Encourage
+residential
+water audits
+MU
+Implement regional program via
+Public Education and Awareness
+(see WC-3) to encourage
+voluntary audits and educate the
+public about water audit
+guidelines.
+ Administer Survey to gauge
+progress toward meeting water
+conservation goals during the short
+term.
+ Revise program during 5-year
+Regional Water Plan update, if
+necessary, to improve
+effectiveness.
+ Identify/create incentive program
+.
+Short-term Actions: Local
+governments and utilities.
+Long-term Actions: GAEPD
+and Regional Councils
+working with the RCs.
+7-4
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+June 2017
+Table 7-1(a): Water Conservation Management Practice Implementation Schedule
+Management
+Practice
+Permittee
+Category of
+Responsible
+Partiesa
+Short-term Actions (Next 5
+Years)
+Long-term Actions (5 Years and
+Beyond)
+Responsible Parties b
+WC-9.
+Encourage
+certification of
+irrigation
+specialists
+AG and MU
+ Consider creating a
+certification requirement and
+process for irrigation
+specialists.
+ Develop regional
+educational materials
+regarding the value of using
+a trained, certified
+residential/commercial
+irrigation specialist to
+increase water use
+efficiency within the
+agricultural and green
+industry.
+ Encourage certification of
+irrigation specialists via
+Public Education and
+Awareness Program (see
+WC-3).
+Evaluate whether requirement for
+certified irrigation specialists should be
+considered in plan update.
+Short-term Actions: GAEPD
+Agriculture Water Permitting
+Unit and Regional Councils
+working with the GSWCC
+Agriculture Meter Program,
+GGIA, and GSWCC.
+WC-10.
+Encourage
+commercial
+water audits
+MU
+ Implement regional program
+via Public Education and
+Awareness Program (see
+WC-3).
+ Advertise and promote the
+water audit program.
+ Conduct audits with
+interested commercial
+partners.
+ Administer Survey to gauge Results
+during the short term.
+ Report results to commercial
+partners and revise program during
+5-year Regional Water Plan update,
+if necessary, to improve
+effectiveness.
+Short-term Actions: Local
+governments and utilities.
+Long-term Actions: GAEPD
+and Regional Councils
+working with the RCs and
+GADNR Sustainability
+Division.
+a Permittee Categories of Responsible Parties have the following acronyms and refer to the entities who may have permits of various types through GAEPD:
+AG: Agricultural Water Withdrawal
+CST: Construction Stormwater
+GC: Golf Course Water Withdrawal
+IND: Industrial Water Withdrawal
+INDST: Industrial Stormwater
+INDWW: Industrial Wastewater
+MU: Municipal Water Withdrawal
+MS4: Municipal Stormwater
+MUWW: Municipal Wastewater
+SD: Safe Dams Program
+b Assumes continued support from the Council in some capacity beyond their 3-year appointment.
+June 2017 7-5
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+7.1.2 Implementation of Water Supply Management Practices
+Table 7-1(b) lists implementation details for the 7 Water Supply Management Practices
+selected by the Council and as indicated in Table 6-1(b). The list includes a wide variety of
+practices, such as practices that benefit all communities (e.g., WS-4, Encourage
+development of water master plans with periodic updates), and practices that may be
+appropriate for some communities, but not for others (e.g., WS-2 Construct new water supply
+reservoirs). Each community will need to evaluate all the practices to determine which are
+appropriate for it to implement. Communities with Resource Assessment gaps or
+infrastructure needs/shortages are strongly encouraged to implement these Management
+Practices to address their water resource issues. All communities will need to track and
+report on their implementation activities as described in Section 8 to help monitor progress in
+meeting the benchmarks.
+Table 7-1(b): Water Supply Management Practice Implementation Schedule
+Management
+Practice
+Permittee
+Category of
+Responsible
+Partiesa
+Short-term Actions (Next 5 Years)
+Long-term Actions:
+(5 Years and Beyond)
+Responsible Parties b
+WS-1. Expand
+existing
+reservoirs
+MU and SD
+ Evaluate potential expansion of
+existing reservoirs.
+ Identify and evaluate potential for
+retrofitting NRCS impoundments
+for water supply use.
+ Begin process of expanding
+existing reservoirs.
+Revise local Water
+Master Plan based on
+5-year Regional Water
+Plan update, if
+necessary. Continue to
+maximize existing
+reservoir capacities.
+Local governments and
+utilities with support from
+GAEPD and NRCS.
+WS-2. Construct
+new water supply
+reservoirs
+MU
+ Identify site-specific needs for new
+water supply reservoirs over the
+next 30 years via the local Water
+Master Planning Process and
+Regional Water Plan.
+ Identify opportunities to create
+regional reservoirs for cost sharing
+and efficiency.
+ Begin permitting process for new
+water supplies.
+ Continue
+permitting process
+for new water
+supplies and
+construct as
+needed and as
+funding allows.
+ Revise local Water
+Master Plan based
+on 5-year
+Regional Water
+Plan update, if
+necessary.
+Local governments and
+utilities with support from
+GAEPD.
+WS-3. Develop
+new groundwater
+wells
+IND and MU
+ Identify site-specific needs for new
+groundwater wells over the next
+30 years via the local Water
+Master Planning Process.
+ Begin permitting process for new
+wells and construct as needed and
+as funding allows.
+ Continue
+permitting process
+for new wells and
+construct as
+needed and as
+funding allows.
+ Revise local Water
+Master Plan based
+on 5-year
+Regional Water
+Plan update, if
+necessary.
+Industry, local governments,
+and utilities with support
+from GAEPD.
+7-6
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+June 2017
+Table 7-1(b): Water Supply Management Practice Implementation Schedule
+Management
+Practice
+Permittee
+Category of
+Responsible
+Partiesa
+Short-term Actions (Next 5 Years)
+Long-term Actions:
+(5 Years and Beyond)
+Responsible Parties b
+WS-4. Encourage
+development of
+water master
+plans with
+periodic updates
+MU
+Consider developing (or revising) a local
+Water Master Plan to:
+ Include a 30-year planning horizon.
+ Include an emergency water plan.
+Reflect implementation of Regional
+Water Plan water Management
+Practices.
+Implement local water master plan.
+(See WW-2)
+Revise local Water
+Master Plan
+periodically based on 5-
+year Regional Water
+Plan update.
+Local governments and
+utilities with support from
+GAEPD.
+WS-5 Encourage
+indirect potable
+reuse
+MU and
+MUWW
+ Identify opportunities to augment
+water supplies with highly treated
+wastewater via the local Water
+Master Planning Process.
+ Identify incentives to encourage
+potable reuse.
+ Implement via local water master
+plan. (See WS-4)
+Revise local Water
+Master Plan based on
+5-year Regional Water
+Plan update, if
+necessary.
+Local governments and
+utilities with support from
+GAEPD and GEFA.
+WS-6. Expand
+existing
+withdrawals from
+available
+reservoirs
+MU
+ Coordinate with current reservoir
+owners / operators to establish a
+clear process for local
+governments and utilities to follow
+when future water supply needs
+arise.
+ Identify need for expansion of
+future water withdrawals from
+existing reservoirs via local Water
+Master Planning process.
+ Revise local Water
+Master Plan based
+on 5-year
+Regional Water
+Plan update, if
+necessary, to
+include this water
+MP.
+ Coordinate with
+current reservoir
+owners / operators
+and FERC, as
+needed, to meet
+future water
+supply needs.
+Short-term Actions GAEPD,
+Regional Councils, local
+governments and utilities
+working with Georgia Power
+and FERC Local
+governments and utilities.
+Long-term Actions Local
+governments and utilities,
+GAEPD, and Regional
+Councils working with
+Georgia Power and FERC.
+WS-7. Encourage
+water system
+asset
+management
+MU
+ Develop a water system asset
+management program, if one does
+not already exist
+ Develop targeted asset
+replacement/rehabilitation program
+to prevent catastrophic failures.
+ Begin or continue mapping of
+water system assets.
+ Coordinate asset management
+and leak detection programs.
+ Continue asset
+management and
+leak detection
+programs.
+ Revise program
+based on 5-year
+Regional Water
+Plan update, if
+necessary.
+Local governments and
+utilities with support from
+GAEPD.
+a See Table 7-1(a) for acronyms of Permittee Categories of Responsible Parties.
+b Assumes continued support from the Council in some capacity beyond their 3-year appointment.
+June 2017 7-7
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+7.1.3 Implementation of Wastewater Management Practices
+Table 7-1(c) lists implementation details for the 8 Wastewater Management Practices
+selected by the Council and as described in Table 6-1(c). The list includes a wide variety of
+practices, such as practices that benefit all communities (e.g., WW-2, Encourage
+development of local wastewater master plans/Evaluate wastewater treatment and disposal
+options to meet future demands) and practices that may be appropriate for some
+communities, but not for others (e.g., WW-3, Develop recommendations for decentralized
+sewer systems). Each community will need to evaluate all the practices to determine which
+are appropriate for it to implement. Communities with Resource Assessment gaps or
+infrastructure needs/shortages are strongly encouraged to implement these Management
+Practices to address their water resource issues. All communities will need to track and
+report on their implementation activities as described in Section 8 to help monitor progress in
+meeting the benchmarks.
+Table 7-1(c): Wastewater Management Practice Implementation Schedule
+Management
+Practice
+Permittee
+Category of
+Responsible
+Partiesa
+Short-term Actions (Next 5
+Years)
+Long-term Actions (5
+Years and Beyond)
+Responsible Parties b
+WW-1.
+Encourage
+implementation of
+centralized sewer
+in developing
+areas where
+density warrants
+MUWW
+Implement local Wastewater Master
+Plan (See WW-2), working with
+developers to secure their
+participation.
+Revise local Wastewater
+Master Plan based on 5-
+year Regional Water Plan
+update, if necessary.
+Local governments and utilities
+with support from GAEPD.
+WW-2.
+Encourage
+development of
+local wastewater
+master plans /
+Evaluate
+wastewater
+treatment and
+disposal options
+to meet future
+demands
+MUWW
+Develop and implement local
+Wastewater Master Plan.
+Revise local Wastewater
+Master Plan based on 5-
+year Regional Water Plan
+update.
+Local governments and utilities
+with support from GAEPD.
+WW-3. Develop
+recommendations
+for
+decentralized
+sewer systems
+MUWW
+ Local governments to consider
+adoption of model ordinance for
+decentralized and clustered
+sewer systems.
+ Local Public Health
+Departments to implement
+revised minimum design
+standards.
+Revise guidelines during 5-
+year Regional Water Plan
+update, if necessary.
+Short-term Actions: Local
+governments and local Public
+Health Departments.
+Long-term Actions: GAEPD
+and Regional Councils working
+with State and local Public
+Health Department
+representatives.
+7-8
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+June 2017
+Table 7-1(c): Wastewater Management Practice Implementation Schedule
+Management
+Practice
+Permittee
+Category of
+Responsible
+Partiesa
+Short-term Actions (Next 5
+Years)
+Long-term Actions (5
+Years and Beyond)
+Responsible Parties b
+WW-4. Develop
+septic system
+planning and
+management
+policies and
+guidance
+MUWW
+As part of local planning efforts:
+ Develop near- and long-term
+policies for transitioning to sewer
+in areas where feasible.
+ Identify grant funds or other
+sources to develop and
+implement Septic System
+Homeowner Education program.
+ Develop template materials for
+Septic System Homeowner
+Education efforts. Develop septic
+tank certification program as part
+of the homebuyer closing
+process.
+ Integrate Septic System
+Homeowner Education and
+septic certification program
+components into the Public
+Education and Awareness
+Program (see WC-3).
+Track implementation and
+revise Regional Water
+Plan, if necessary.
+Short-term Actions: Local
+governments and utilities.
+Long-term Actions: GAEPD
+and Regional Councils working
+with State and local Public
+Health Department
+representatives
+WW-5. Develop
+and implement
+sewer system
+capacity,
+management,
+operation, and
+maintenance
+(CMOM) program
+MUWW
+ Develop regional CMOM
+guidelines or templates for local
+government and utility
+implementation.
+ Implement local CMOM
+programs.
+ Integrate CMOM topics into the
+Public Education and
+Awareness Program (see WC-
+3).
+Revise guidelines during 5-
+year Regional Water Plan
+update, if necessary, to
+improve effectiveness.
+Short-term Actions: Local
+governments and utilities.
+Long-term Actions: GAEPD
+and Regional Councils with
+support from GAWP.
+WW-6. Provide
+local government
+with acceptable
+parameters for
+septage disposal
+at facilities
+MUWW
+ Propose legislative changes, if
+needed, to allow for consistent,
+minimum parameters for local
+governments to utilize in
+determining whether septage is
+acceptable for disposal at their
+facilities.
+ Local governments and utilities
+to implement minimum septage
+disposal standards and
+regularly convey manifests to
+local Public Health officials.
+Revise guidelines during 5-
+year Regional Water Plan
+update, if necessary.
+Short-term Actions: Georgia
+State legislature, local
+governments and utilities
+working with local Public Health
+Department representatives.
+Long-term Actions: GAEPD
+and Regional Councils working
+with Georgia Division of Public
+Health and local Public Health
+Department representatives.
+June 2017 7-9
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+Table 7-1(c): Wastewater Management Practice Implementation Schedule
+Management
+Practice
+Permittee
+Category of
+Responsible
+Partiesa
+Short-term Actions (Next 5
+Years)
+Long-term Actions (5
+Years and Beyond)
+Responsible Parties b
+WW-7.
+Implement
+grease
+management
+program
+MUWW
+ Develop regional Grease
+Management Program
+guidelines or templates for local
+government and utility
+implementation.
+ Implement local Grease
+Management Program.
+ Integrate FOG reduction
+message into the Public
+Education and Awareness
+Program (see WC-3).
+Revise guidelines during 5-
+year Regional Water Plan
+update, if necessary, to
+improve effectiveness.
+.
+Short-term Actions: GAEPD
+and Regional Councils working
+with the RCs; Local
+governments and utilities.
+Long-term Actions: GAEPD
+and Regional Councils working
+with the RCs.
+WW-8.
+Implement “Do
+Not Flush”
+management
+program
+MUWW
+ Develop “Do Not Flush”
+Management Program
+guidelines or templates for local
+government and utility
+implementation.
+ Implement local “Do Not Flush”
+Management Program.
+ Integrate “Do Not Flush”
+message into the Public
+Education and Awareness
+Program (see WC-3).
+Revise guidelines during 5-
+year Regional Water Plan
+update, if necessary, to
+improve effectiveness.
+Short-term Actions: Local
+governments and utilities
+working with the RCs.
+Long-term Actions: Local
+governments and utilities
+working with the RCs.
+a See Table 7-1(a) for acronyms of Permittee Categories of Responsible Parties.
+b Assumes continued support from the Council in some capacity beyond their 3-year appointment.
+7-10
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+June 2017
+7.1.4 Implementation of Water Quality Management Practices
+Table 7-1(d) lists implementation details for the 10 Water Quality Management Practices
+selected by the Council and as described in Table 6-1(d). The list includes a wide variety of
+practices, such as practices required by state law (e.g., WQ-2. Encourage local government
+participation in construction erosion and sediment control), practices that benefit all
+communities (e.g., WQ-4, Encourage forestry management practices), and practices that
+may be appropriate for some communities. Each community will need to evaluate all the
+practices to determine which are appropriate for it to implement. Communities with Resource
+Assessment gaps or infrastructure needs/shortages are strongly encouraged to implement
+these Management Practices to address their water resource issues. All communities will
+need to track and report on their implementation activities as described in Section 8 to help
+monitor progress in meeting the benchmarks.
+Table 7-1(d): Water Quality Management Practice Implementation Schedule
+Management
+Practice
+Permittee
+Category of
+Responsible
+Partiesa
+Short-term Actions (Next 5
+Years)
+Long-term Actions (5 Years and
+Beyond)
+Responsible Parties b
+WQ-1.
+Encourage
+comprehensive
+land use planning
+Integrate any needed revisions into
+local comprehensive plans during
+the next, regular 10-year update or
+5-year updates to the Short-Term
+Work Program portion of the
+Community Agenda from the
+comprehensive plan.
+ Implement comprehensive plan.
+ Coordinate with DCA regarding
+potential revisions to Chapter
+110-12-1, Standards and
+Procedures for Local
+Comprehensive Planning, and
+the Part V Environmental
+Planning Criteria to facilitate
+implementation of the State
+Water Plan water Management
+Practices.
+Short-term Actions:
+Regional Councils, local
+governments and utilities.
+Long-term Actions:
+GAEPD and Regional
+Councils working with DCA
+and the RCs as well as
+local governments and
+utilities.
+WQ-2.
+Encourage local
+government
+participation in
+construction
+erosion and
+sediment control
+CST
+Integrate construction erosion and
+sedimentation component into the
+Public Education and Awareness
+Program (see WC-34).
+Consider implementation of Better
+Back Roads program.
+Revisit Resource Assessment
+results during the 5-year Regional
+Water Plan update to evaluate
+whether recommendations for
+changes to the existing Construction
+NPDES Program are needed.
+Short-term Actions:
+Regional Councils, local
+governments and GSWCC
+supervisors
+Long-term Actions:
+GAEPD and Regional
+Councils
+WQ-3.
+Encourage
+Implementation of
+agricultural
+nutrient
+management
+programs
+AG
+ Identify incentives to
+encourage local
+implementation of Nutrient
+Management guidelines.
+ Implement with the support of
+the GSWCC.
+ Integrate message into the
+Public Education and
+Awareness Program (see WC-
+3).
+Revisit Resource Assessment
+results during the 5-year Regional
+Water Plan update to evaluate
+whether changes to guidelines are
+needed.
+Short-term Actions:
+Agricultural Water Users,
+GSWCC, Regional
+Council, and NRCS.
+Long-term Actions:
+GAEPD, Regional
+Councils, GSWCC, and
+NRCS.
+June 2017 7-11
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+Table 7-1(d): Water Quality Management Practice Implementation Schedule
+Management
+Practice
+Permittee
+Category of
+Responsible
+Partiesa
+Short-term Actions (Next 5
+Years)
+Long-term Actions (5 Years and
+Beyond)
+Responsible Parties b
+WQ-4.
+Encourage
+forestry
+management
+practices
+Expand education and enforcement
+of the measures and practices
+outlined in the Georgia Forestry
+Commission BMP manual.
+Revisit Resource Assessment
+results during the 5-year Regional
+Water Plan update to evaluate
+whether recommendations for
+changes to the Georgia Forestry
+Commission BMP manual are
+needed.
+Short-term Actions: Private
+foresters and the Georgia
+Forestry Commission
+Long-term Actions: the
+Georgia Forestry
+Commission
+WQ-5.
+Encourage
+stream buffer
+protection
+ Consider adoption of model
+stream buffer protection
+ordinance.
+ Revise development review
+process, if needed.
+ Integrate message into the
+Public Education and
+Awareness Program (see WC-
+4).
+Revise guidelines during 5-year
+Regional Water Plan update, if
+necessary, to improve effectiveness.
+Short-term Actions:
+Regional Councils, local
+governments and utilities.
+Long-term Actions:
+GAEPD and Regional
+Councils working with the
+Regional Commissions.
+WQ-6.
+Encourage
+floodplain
+management/
+flood damage
+prevention
+ Develop regional
+recommendations and a model
+flood damage prevention
+ordinance.
+ Develop educational materials
+emphasizing the importance of
+preventing flood damage.
+ Identify incentives and
+potential funding sources to
+encourage local
+implementation.
+ Integrate message into the
+Public Education and
+Awareness Program (see WC-
+3).
+ Consider adoption of flood
+damage prevention ordinance.
+ Revise development review
+process, if needed.
+ Begin mapping location of future
+floodplains.
+ Revise guidelines during 5-year
+Regional Water Plan update, if
+necessary, to improve
+effectiveness.
+Short-term Actions:
+Regional Councils,
+GAEPD and GEMA.
+Long-term Actions:
+GAEPD and Regional
+Councils working with local
+governments and utilities.
+WQ-8.
+Encourage
+general
+stormwater
+practices
+MS4
+ Consider implementation of
+regional guidelines for general
+stormwater management in
+non-MS4 communities.
+ Implement regional guidelines
+for general stormwater
+management in MS4
+communities.
+ Integrate general stormwater
+management message into the
+Public Education and
+Awareness Program (see WC-
+4).
+Revise guidelines during 5-year
+Regional Water Plan update, if
+necessary, to improve effectiveness.
+Short-term Actions:
+Regional Councils, MS4
+and Non-MS4 local
+governments and utilities.
+Long-term Actions:
+GAEPD and Regional
+Councils working with the
+RCs.
+7-12
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+June 2017
+Table 7-1(d): Water Quality Management Practice Implementation Schedule
+Management
+Practice
+Permittee
+Category of
+Responsible
+Partiesa
+Short-term Actions (Next 5
+Years)
+Long-term Actions (5 Years and
+Beyond)
+Responsible Parties b
+WQ-9. Support
+total maximum
+daily load (TMDL)
+implementation
+MUWW and
+MUST
+Continue to follow TMDL
+implementation plans and to
+participate in GAEPD updates.
+Update TMDL implementation plans,
+as needed, based on water quality
+and biological monitoring data as
+well as Resource Assessment
+results.
+Short-term Actions:
+GAEPD, industry, local
+governments and utilities.
+Long-term Actions:
+GAEPD and Regional
+Councils working with the
+RCs.
+WQ-9.
+Encourage
+agricultural
+cropland
+management
+practices
+AG
+ Implement with the support of
+the GSWCC. Integrate
+message into the Public
+Education and Awareness
+Program (see WC-3).
+Revisit Resource Assessment
+results during the 5-year Regional
+Water Plan update to evaluate
+whether changes to guidelines are
+needed.
+Short-term Actions:
+Agricultural Water Users,
+GSWCC, Regional
+Councils, and NRCS.
+Long-term Actions:
+GAEPD, Regional
+Councils, GSWCC, and
+NRCS
+WQ-10. Monitor
+long-term
+ambient trends
+MUWW,
+INDWW, MS4,
+and INDST
+ Implement regional long-term
+ambient trend monitoring
+network for the Region.
+ Utilize GAEPD’s online data
+management system to
+maximize use of and access to
+these data.
+Utilize results of regional long-term
+ambient trend monitoring network to
+help guide the 5-year Regional
+Water Plan update and revise
+monitoring program, if needed.
+Short-term Actions:
+GAEPD with support from
+industry, local governments
+and utilities.
+Long-term Actions:
+GAEPD
+a See Table 7-1(a) for acronyms of Permittee Categories of Responsible Parties.
+b Assumes continued support from the Council in some capacity beyond their 3-year appointment.
+7-13
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+June 2017
+7.2 Fiscal Implications of Selected Water Management Practices
+This Section outlines the general planning level costs for implementation of the management
+practices selected by the Council and potential funding sources and options. The guidance
+documents and sources used to inform the planning level cost information in Table 7-2
+have not been updated. Accordingly, the values shown below should only be used as a
+general guide. Specific costs should be further evaluated and updated before being
+relied upon. Estimated unit costs are provided in Table 7-2.
+Table 7-2: Cost Estimates for the Implementation Responsibilities
+Management Practice
+Capital/
+Programmatic Cost
+Funding
+Sources and
+Options Notes and Sources for Costs1
+WC-1. Encourage
+conservation pricing
+$0-500 /MG Utilities GAEPD Cost Guidance WD-5
+WC-2. Develop water
+conservation goals
+$0-0.50 /capita
+State, Local,
+Utilities
+GAEPD Cost Guidance –
+various Ordinance and Policy
+Management Practices
+WC-3. Implement
+education and public
+awareness program
+$0.10-2.25 /capita
+State, Local,
+Utilities
+GAEPD Cost Guidance E-2
+WC-4. Encourage
+variable rate agricultural
+irrigation systems
+$2,000-4,000 /MG State GAEPD Cost Guidance WD-3
+WC-5. Encourage nonpotable
+reuse
+$0-0.50 /capita
+State, Local,
+Utilities
+GAEPD Cost Guidance OP-9
+WC-6. Encourage
+retrofitting of rain
+sensor shut-off switches
+on irrigation systems
+$25-1000 /MG Local, Utilities GAEPD Cost Guidance WD-6
+WC-7. Encourage new
+car washes to recycle
+water
+$0-0.50 /capita State, Local
+GAEPD Cost Guidance –
+various Ordinance and Policy
+Management Practices
+WC-8. Encourage
+residential water audits
+$0.10-2.25 /capita
+State, Local,
+Utilities
+GAEPD Cost Guidance E-2
+WC-9. Encourage
+certification of irrigation
+specialists
+$0-0.50 /capita State
+GAEPD Cost Guidance –
+various Ordinance and Policy
+Management Practices
+WC-10. Encourage
+commercial water audits
+$25-1,000 /MG
+State, Local,
+Utilities
+GAEPD Cost Guidance WD-2
+WS-1. Expand existing
+reservoirs
+$10,000-150,000
+/MG
+State, Local,
+Utilities
+GAEPD Cost Guidance WS-2
+WS-2. Construct new
+water supply reservoirs
+$10,000-350,000
+/MG
+State, Local,
+Utilities
+GAEPD Cost Guidance WS-1
+WS-3. Develop new
+groundwater wells
+$1,000-100,000 /MG
+State, Local,
+Utilities
+GAEPD Cost Guidance WS-3
+7-14
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+June 2017
+Table 7-2: Cost Estimates for the Implementation Responsibilities
+WS-4. Encourage
+development of water
+master plans with
+periodic updates
+$1,000-2,000 /MG Utilities
+GAEPD Cost Guidance –
+various Ordinance and Policy
+Management Practices
+WS-5. Encourage
+indirect potable reuse
+$0-0.50 /capita
+State, Local,
+Utilities
+GAEPD Cost Guidance OP-9
+WS-6. Expand existing
+withdrawals from
+available reservoirs
+$1.5-4 million/MGD Utilities
+GAEPD Cost Guidance WT-2 –
+assume would need to expand
+intake and add treatment
+capacity; used low end
+WS-7. Encourage water
+system asset
+management
+$1,000-3,000 /MG Utilities GAEPD Cost Guidance WD-4
+WW-1. Encourage
+implementation of
+centralized sewer in
+developing areas where
+density warrants
+$0-$1 million /MGD
+State, Local,
+Utilities
+GAEPD Cost Guidance WW-8
+WW-2. Encourage
+development of local
+wastewater master
+plans / Evaluate
+wastewater treatment
+and disposal options to
+meet future demands
+$1,000-2,000 /MG Utilities
+GAEPD Cost Guidance –
+various Ordinance and Policy
+Management Practices
+WW-3. Develop
+recommendations for
+decentralized sewer
+systems
+$0-0.50 /capita Local, Utilities GAEPD Cost Guidance OP-9
+WW-4. Develop septic
+system planning and
+management policies
+and guidance
+$0-0.50 /capita
+State, Local,
+Utilities
+GAEPD Cost Guidance OP-9
+WW-5. Develop and
+implement sewer
+system capacity,
+management, operation
+and maintenance
+(CMOM) program
+$0-$1 million /MGD
+State, Local,
+Utilities
+GAEPD Cost Guidance WW-6
+WW-6. Provide local
+government with
+acceptable parameters
+for septage disposal at
+facilities
+$0-0.50 /capita
+State, Local,
+Utilities
+GAEPD Cost Guidance OP-9
+WW-7. Implement
+grease management
+program
+$0.10 - 2.25 /capita
+State, Local,
+Utilities
+GAEPD Cost Guidance E-2
+7-15
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+June 2017
+Table 7-2: Cost Estimates for the Implementation Responsibilities
+WW-8. Implement
+flushable program
+$0.10 - 2.25 /capita
+State, Local,
+Utilities
+GAEPD Cost Guidance E-2
+WQ-1. Encourage
+comprehensive land
+use planning
+$0-0.50 /capita State, Local
+GAEPD Cost Guidance OP-7
+and OP-9
+WQ-2. Encourage local
+government
+participation in
+construction erosion
+and sediment control
+$1-3 /capita State, Local GAEPD Cost Guidance E-1
+WQ-3. Encourage
+implementation of
+agricultural nutrient
+management programs
+$5,000-7,000 /Farm State RCS, 2003
+WQ-4. Encourage
+forestry best
+management practices
+$5-100 /acre State
+Cubbage, F, J. Scott, T.
+Pressley, and S. Moore.
+Undated. Costs of Forestry
+Best Management Practices in
+the South: A Review. North
+Carolina State University.
+Department of Forestry.
+Costs vary by region, slope and
+practice.
+WQ-5. Encourage
+effective stream buffer
+protection
+$0-0.50 /capita Local GAEPD Cost Guidance OP-7
+WQ-6. Encourage
+floodplain management
+/ flood damage
+prevention
+$0-0.50 /capita Local GAEPD Cost Guidance OP-7
+WQ-7. Encourage
+general stormwater
+practices
+$0-0.50 /capita State, Local GAEPD Cost Guidance OP-1
+WQ-8. Support TMDL
+implementation
+$0-2 /capita
+Federal, State,
+Local, Utilities
+GAEPD Cost Guidance for
+Education; assume would be
+similar level of effort and would
+vary depending on the
+complexity and cost of TMDL
+implementation
+7-16
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+June 2017
+Table 7-2: Cost Estimates for the Implementation Responsibilities
+WQ-9. Promote postdevelopment
+stormwater
+management
+$0-0.50 /capita State, Local
+GAEPD Cost Guidance OP-1;
+cost to develop ordinance
+which would probably be similar
+to developing educational
+materials; costs do not include
+staff to review stormwater plans
+or any increased development
+costs
+WQ-10. Monitor longterm
+ambient trends
+$4,000-8,000 /site State, Local
+GAEPD Cost Guidance;
+assumes no metals monitoring;
+grab sample techniques
+1GAEPD Cost Guidance, http//www.georgiawaterplanning.org/
+7.3 Alignment with Other Plans
+As discussed in Section 6, a review of regional and local plans served as the basis for the
+development of the Region’s selected management practices; a summary of the local and
+regional plans reviewed is provided in the supplemental document titled Review and
+Summary of Existing Plans, which is available on the Council website.1 As a result, this
+update of the Regional Water Plan is generally aligned and consistent with these efforts;
+however, the following sections describe ongoing efforts and/or differences that are worth
+noting and revisiting during future Regional Water Plan updates.
+7.3.1 Metro Water District Plans
+The Metro Water District was created by the Georgia General Assembly in 2001 to establish
+policy, create plans, and promote intergovernmental coordination within the 15-County Metro
+Atlanta region, which includes more than 90 cities. The Metro Water District is therefore
+governed by a separate authorizing legislation than the Region, though the two are similar in
+some respects. For example, the Metro Water District is funded by State appropriations and
+per capita local government dues; it is governed by an elected/appointed Governing Board,
+which sets policy and direction. Metro Water District staffing is provided by the Atlanta
+Regional Commission Environmental Planning Division, while plans and policies are guided
+by the Board Executive and Finance Committees, the Technical Coordinating Committee,
+and the Basin Advisory Councils (Metro Water District, 2011).
+Local governments and utilities are responsible for implementing the Regional Water Plans
+at the local level, and compliance with the plans is directly enforced through the GAEPD’s
+permitting process. However, while this Regional Water Plan will guide GAEPD’s future
+permitting decisions, local governments must be in compliance with the Metro Water
+District’s plans to obtain a permit for an increased water withdrawal or a new or increased
+discharge, or to obtain an MS4 permit. GAEPD is responsible for auditing local governments
+to determine compliance with the plans, including audit checklists and site visits.
+1 http://www.upperoconee.org/pages/our_plan/index.php
+7-17
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+June 2017
+In May 2009, the Metro Water District adopted comprehensive updates to the plans the
+District first adopted in 2003; these long-term water management plans address water supply
+and water conservation, wastewater management, and watershed management.
+
+7.4 Recommendations to the State
+This subsection describes the Council’s recommendations to the State of Georgia for actions
+that will support the implementation of this Regional Water Plan. Table 7-3 summarizes
+these recommendations by type and reflects the role the Council envisions the State taking
+in support of the activities described in Section 7.1.
+Table 7-3: Recommendations to the State (Continued)
+Recommendation
+Funding Identify long-term funding mechanism, beyond grants, to assist responsible
+parties with implementation.
+Work with existing organizations such as the GSWCC to identify incentives to
+encourage the installation and use of variable rate irrigation systems by a
+certified irrigation professional.
+Identify funding assistance (grants or loans) for small community water systems
+that have had to shut down their groundwater supply wells and move onto
+surface water withdrawal and treatment systems based upon radionuclides
+levels of concern in groundwater.
+These systems fall within an area of the Upper Oconee Region that is known to
+have such levels of concern based on geologic conditions. Funding assistance
+may include grant or loan programs administered by DCA or GEFA, and may
+also include federal funding sources from USEPA or USDA.
+Coordination Coordinate with DCA and the RCs to serve as the clearing house and
+coordinator for ongoing Regional Water Plan planning activities.
+To provide continuity between Regional Water Plan updates, a minimum of six
+to nine members of the original Council should be re-appointed. Vacancies at
+each level should also be determined to assist when considering
+reappointments.
+The Council should meet a minimum of once a year (as directed by the
+Chairperson) to track implementation and address potential issues or questions
+regarding implementation or plan amendments. A Planning Contractor should
+be available to the Council to assist with coordination as well as implementation
+tracking or plan amendments.
+Invite regional utility directors to the annual Council Meetings.
+Work with existing organizations, such as ACCG, GMA and GAWP to develop
+templates and materials that each Regional Council, with the assistance of
+DCA or the RCs noted in Section 2.3, can adapt for regional / local
+implementation.
+Topic areas from Table 7-1 could include: public education program, water
+conservation goals, regional residential and commercial water audit program
+materials, golf course water management, grease management, CMOM,
+general stormwater management and stream buffer protection.
+Work with existing organizations such as the GSWCC, United States
+Department of Agriculture (USDA), and the State’s University System to
+develop regional watering, nutrient management, cropland management
+guidelines for the major crops grown in the Region.
+7-19
+UPPER OCONEE
+7. Implementing Water
+Management Practices
+June 2017
+Table 7-3: Recommendations to the State (Continued)
+Recommendation
+Coordinate with State and local Public Health Departments to:
+ Develop consistent, minimum design standards that anticipate future
+centralized sewer connections where appropriate.
+ Develop example policies for connections to public sewer.
+ Develop regional recommendations and a model ordinance for
+decentralized sewer systems.
+Coordinate with GEMA on development of a model flood damage prevention
+ordinance.
+Policy /
+Programmatic
+Consider modifying (limiting) the extent of exemptions found in O.C.G.A. § 12-
+7-17 regarding the Erosion and Sedimentation Control Act.
+Increase enforcement capabilities for GSWCC as well as local erosion and
+sedimentation control acts.
+Revisit DO criteria for South Georgia, and the Region in particular, to consider
+naturally low background levels found in the Region.
+Build on existing GAEPD monitoring program to develop a regional long-term
+ambient trend monitoring network for the Region.
+Evaluate methodologies to shorten the timing for the permitting process on new
+reservoir systems.
+Next 5-Year
+Update
+Refine Resource Assessment models to allow presentation of results at a finer
+resolution.
+Collect and monitor withdrawal and discharge data from industries to refine the
+water balance and wastewater return ratio assumptions.
+Support the evaluation of the current in-stream flow policy to determine whether
+revisions are needed to protect aquatic resources.

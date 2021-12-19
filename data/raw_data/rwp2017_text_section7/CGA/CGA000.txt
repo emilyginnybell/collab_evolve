@@ -1,0 +1,829 @@
+ 
+
+
+Section 7. Implementing Water Management Practices
+This Section presents the Coastal Georgia Council’s estimated timeframes for the implementation of the water management practices identified in Section 6. Schedules for implementation, in addition to the early step(s) required to initiate implementation of a given practice, are presented for both short- and long-term actions. The Coastal Georgia Council has defined short- term as years 2015 to 2025 and long-term as 2025 to 2050. As the State Water Plan provides, this Plan will be primarily implemented by the various water users in the region; therefore, the Coastal Georgia Council has described the roles and responsibilities of the implementing parties as well as the fiscal implications of the practices.
+
+The Coastal Council also emphasizes that the implementation of recommended management practices are predicated on a number of planning assumptions and/or may be impacted by unanticipated or currently unknown factors including: projected growth of population, industry, agricultural and energy needs; shared resources with surrounding regions; future identification/proposal of a significant upstream water resource project; data sets and assumptions related to water use, water withdrawals and returns; data regarding water quality and watershed models; rules and regulations regarding water resource use and
+management; and Resource Assessment tools for surface water availability, surface water quality, and groundwater availability. Consequently, significant changes or departures from these planning assumptions, forecasts, and Resource Assessment tools may require a modification of the recommended management practices, the implementation schedule, and/or the implementing entities/affected stakeholders. Future planning efforts should confirm current assumptions and make necessary revisions and/or improvements to the conclusions reached during this round of planning.
+
+7.1.  Implementation Schedule and Roles of Responsible Parties
+Table 7-1 ties the resource shortfalls and the needs specified by the Council and the corresponding management practices detailed in Table 6-1 to the parties who will implement those practices. This table also describes the timeframe for implementation and the specific steps required for implementation.
+
+
+
+
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+Water Conservation (WC)1
+WC-1
+Tier 1 and
+Tier 2 Measures for Municipal and Industrial Users  Current and future groundwater and surface water supply needs Surface water and groundwater withdrawal (Municipal and Industrial) Conduct outreach/ education/incentives to encourage
+implementation of
+conservation measures Continue to implement water conservation practices through 01/2025  Verify conservation savings estimates EPD, Georgia Municipal Association, Georgia Association of County Commissioners, and Water
+            Providers in the Coastal Region
+WC-2
+Tier 3 and
+Tier 4 Measures for Municipal and Industrial Users in Red and Yellow Zones  Current and future groundwater supply needs/gaps in the Red and Yellow Zones  Groundwater withdrawal (Municipal and
+Industrial)       
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+WC-3 through WC-12
+Tier 3 and
+Tier 4 Measures for Agricultural Users  Current and future agricultural groundwater and surface water supply gaps/needs Surface water and groundwater withdrawal (Agricultural)       EPD, GSWCC,
+Georgia Department of Agriculture, and Agricultural water users in the Coastal Region
+Additional/Alternate to Present Groundwater Source(s) in Gap Areas (AAGS)2
+AAGS-1
+Cross- Jurisdictional Collaboration Current and future groundwater use in the Red and Yellow Zones  Groundwater withdrawal (Municipal)  Continue discussions with multi-county, city, and key utilities Continue to track and incorporate major findings from the Bi- state stakeholder group on salt water intrusion (by 01/2025)  N/A Water
+Providers outside Red and Yellow Zones in proximity to demand locations2
+AAGS-2
+Increase Surface Water Supplies   Surface water withdrawal
+
+Public Water System Coordinate with City of Savannah Industrial and Domestic Water Plant to utilize excess finished water as needed Construct distribution infrastructure from City of Savannah Industrial and Domestic Water Treatment Plant to demand locations (by 01/2020)    Water
+Providers within Red and Yellow Zones, City of Savannah
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+AAGS-3
+Additional Reservoir Storage      N/A Conduct reservoir reconnaissance and feasibility evaluation (by 01/2020)  If feasible, construct reservoir, treatment plant, and distribution system to demand locations (by 01/2030) Water
+Providers within and outside Red and Yellow Zones
+AAGS-4
+Study Aquifer Storage and Recovery in Addressing Gaps   N/A   Evaluate effectiveness and feasibility of aquifer storage and recovery/aquifer recharge (by 01/2015)  N/A EPD, Georgia Legislature if evaluation shows effectiveness, feasibility, and need.
+AAGS-5
+Surface Water Storage in Aquifers Current and future groundwater use in the Red and Yellow Zones  Underground Injection
+
+Public Water System Pending favorable results from AAGS- 4, perform desktop evaluation to identify and screen potential ASR well sites (by 01/2020) Drill exploratory ASR wells to confirm feasibility at each site (by 01/2025)  Construct ASR wellfields and complete cycle testing to verify aquifer conditions and yield volumes (by 1/2035)  EPD, Water Providers within Red and Yellow Zones
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+AAGS-6
+Additional Aquifer Use    Groundwater withdrawal (Municipal and Industrial) Determine feasibility of utilizing alternative aquifers to the Floridan in supplying groundwater withdrawals (by 01/2020) Install production wells in aquifers other than the Floridan aquifer and meet sustainable withdrawal rates (by 01/2025) Continue to regularly update Groundwater Resource Assessment and sustainable yield criteria EPD, Water Providers within and outside Red and
+Yellow Zones
+AAGS-7
+Reuse   General Wastewater  Continue to conduct reuse feasibility studies to determine potential customers and treatment needs
+(by 01/2020)  Construct treatment upgrades/new facilities and establish contractual agreements with reuse customer base (by 01/2025)  Continue treatment upgrades and seek new customers as additional capacity is provided (by 01/2050)  
+AAGS-8
+through AAGS-10
+Desalination, Reverse Osmosis, and Inter-basin transfers    
+
+
+Options pending feasibility of other options
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+AAGS-11
+Monitor Aquifer and additional Modeled Simulations  Current and future groundwater use in the Red and Yellow Zones  Groundwater withdrawal (Municipal and Industrial) Develop scope of work (6/2017- 1/2018) and identify key partnering agencies Implement monitoring plan, modeling (as applicable) and reporting on a yearly basis Compile results in 5- year increments for use in subsequent updates to the Resource Assessments and Review and Revision of the Coastal Water Plan EPD and potentially
+U.S. Army Corps of Engineers, Savannah District given their responsibilities in implementing a Floridan aquifer monitoring program as part of the Savannah Harbor Expansion Project
+Institutional (I)2
+I-1
+Cross- Jurisdictional Groundwater Coordination Group  Current and future groundwater use in the Red and Yellow Zones  Groundwater Withdrawal  Continue discussions with multi-county, city, and key utilities in support of a regional groundwater coordination group Continue the collaboration and implementation actions of the regional groundwater coordination group  Continue to participate in regional groundwater coordination group, as available (by 01/2050) EPD, Water Providers within and outside Red and
+Yellow Zones
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+Further Action to Complete Implementation and Associated Dates
+DCAR-1
+through DCAR-6
+Agricultural Data Collection and Irrigation Research  Current and future surface water use in gap areas N/A Develop scope of work 6/2012) and key partnering agencies
+(06/2012-01/2015) Complete data collection, research, and evaluation by 01/2020
+
+Incorporate data/findings in next Regional Water Plan revision  N/A EPD, GSWCC,
+University of Georgia, Georgia Department of Agriculture (DOA)
+DCAR-7
+Minimize Groundwater Use Impacts to Surface Water           
+DCAR-8
+Analyze Addressing Extreme Conditions     Develop scope of work (06/2011- 12/2011)      EPD
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+DCAR-9
+Study Aquifer Potential to Address Gaps Current and future surface water use in gap areas N/A Develop scope of work 12/2011) and key partnering agencies (01/2012- 01/2015) Complete data collection, research, and evaluation by 01/2020
+
+Incorporate data/findings in next Regional Water Plan revision  N/A EPD, GSWCC,
+University of Georgia, Georgia DOA
+DCAR-10
+Restoration Impact on Low Flow Conditions Analysis            EPD and other research agencies/entities;
+USDA and other agencies for funding and incentives
+Additional and Alternatives to Existing Surface Water Supply Sources (ASWS)1
+ASWS-13
+Consider Low Flow Conditions in Future Surface Water Permitting Future surface water use in gap areas Surface water withdrawal (Agricultural) EPD to develop Data Needs and Guidance for Analysis Requirements
+
+Applicants to submit analysis from 2015-
+2020  GSWCC to collaborate with EPD, Georgia DOA, and current/future surface water users to develop application process and data needs to streamline application and review process (by 01/2020)  Determine if expedited or revised permitting process is warranted to allow for use of the resource and protection of critical low flows EPD, GSWCC,
+Georgia DOA, and Agricultural surface water users in the Coastal Region for implementation
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+ASWS-23
+Incentives for Dry-Year Releases from Ponds           
+ASWS-33
+Substitute Future Surface Water Use with Groundwater in Dry Years Future surface water use in gap areas Surface water withdrawal (Agricultural) EPD to develop Data Needs and Guidance for Analysis Requirements
+
+Applicants to submit analysis from 2010-
+2015  GSWCC to collaborate with EPD, Georgia DOA, and current/future surface water users to develop application process and data needs to streamline application and review process (by 01/2020)  Determine if expedited or revised permitting process is warranted to allow for use of the resource and protection of critical low flows EPD, GSWCC,
+Georgia DOA, and Agricultural surface water users in the Coastal Region for implementation
+ASWS-4
+Substitute Existing Surface Water Use with Groundwater in Dry Years Current surface water use in gap areas  Surface water/ Groundwater withdrawal
+(Agricultural)  Develop strategy and work with potential participants/
+impacted users to increase support for and implementation of strategy Evaluate need and feasibility to conjunctively manage groundwater (outside Red and Yellow Zones) and surface water to address 7Q10 low flow conditions (by 01/2020) N/A 
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+ASWS-5
+Opportunities and Incentives for Dry-Year Releases from Ponds   Surface water withdrawal (Agricultural)   Examine opportunities to modify farm and other pond operations to obtain releases in to address gaps (by 01/2020) Modify farm and other pond operations to obtain releases to address gaps (by 01/2035) 
+ASWS-6
+Ecological Restoration Incentive Program  Current and future surface water use in gap areas Wetland Restoration Encourage research to determine effectiveness and feasibility of restoring wetlands Determine effectiveness and feasibility of restoring wetlands (by 01/2020)  Restore wetland characteristics (by 01/2035)  EPD and the U.S. Army Corps of Engineers (USACE)
+ASWS-7
+Land Management Incentives    Stormwater NPDES
+Discharge Monitor land use changes and further delineate aquifer recharge areas Determine effectiveness and feasibility of implementing practice (by 01/2020) If deemed effective and feasible, implement practice based on status of gap closure (by 01/2030)  EPD, Municipalities and Water/Wastewater Utilities in the Coastal Region
+ASWS-8
+Incentives for Greater Wastewater Return Flows    Wastewater/ Stormwater NPDES
+Discharge,
+Sanitary Sewer Extension  N/A   Continue to monitor land use and hydrologic relationships 
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+ASWS-9
+Multi-Region Reservoir    Surface water withdrawal  Monitor gap closure Based on rate of gap closure, consider reservoir reconnaissance/feasib ility study (by 01/2020) Construct joint regional reservoir and/or multiple new smaller reservoirs (and/or utilize existing reservoirs) (by 01/2035) EPD, Water providers in the Coastal Region, other collaborating regions
+ASWS-10
+Inter-Basin Transfers Current and future surface water use in gap areas Surface water withdrawal  Monitor gap closure Based on rate of gap closure, consider inter- basin transfer reconnaissance/feasib ility study (by 01/2025) Construct infrastructure for inter-basin transfers, if feasible and needed (by 01/2050) EPD, USACE,
+Water providers in the Coastal Region, other collaborating regions
+Point Sources – Dissolved Oxygen (PSDO)
+PSDO-1
+Collect Water Quality Data  Water quality gaps  General Wastewater  N/A Collect data to confirm loading and/or receiving stream chemistry (by 01/2020)  N/A EPD, Municipalities and/or wastewater utilities in the Coastal Region
+PSDO-2
+Point Discharge Relocation        Identify feasibility to move discharge location to higher flow streams with greater assimilative capacity (by 01/2020)  If feasible, and cost effective, relocate discharge location (by 01/2025) 
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+PSDO-3
+Enhance Point Source Treatment      Confirm wastewater facilities to upgrade/improve treatment to address low dissolved oxygen conditions in receiving streams (by 01/2015) Upgrade/improve treatment of identified wastewater facilities (by 01/2020)  Continue to upgrade/improve treatment of identified wastewater facilities (by 01/2045)  
+Available Municipal Wastewater Permit Capacity (MWWPC)
+MWWPC-1
+Increase Wastewater Permit Capacity Wastewater permit capacity gap
+(Bryan County)  Municipal Wastewater  N/A Expand or construct new facilities and/or obtain additional wastewater permit capacity to meet forecasted needs (by 01/2025)  N/A EPD, Municipal wastewater utilities in the Coastal Region
+Available Industrial Wastewater Permit Capacity (IWWPC)4
+IWWPC-1
+Increase Wastewater Permit Capacity Wastewater permit capacity gap  Industrial Wastewater Obtain additional permit data on flow volumes and permit conditions for industrial wastewater facilities forecasted needs Expand/construct new facilities and/or obtain additional wastewater permit capacity to meet forecasted needs (by 01/2025) N/A EPD, Industrial wastewater facilities in the Coastal Region
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+Available Municipal Groundwater Permit Capacity (MGWPC)
+MGWPC-1
+Increase Municipal Groundwater Permit Capacity  Groundwater permit capacity gap
+(All Counties except Glynn County)  Groundwater Withdrawal (Municipal)  N/A Evaluate short-term needs and, if needed, work with EPD to obtain additional permit capacity and/or alternate source of supply (by 01/2025) Evaluate long-term needs and, if needed, work with EPD to obtain additional permit capacity (by 01/2050)  EPD, Municipal water utilities in the Coastal Region
+Available Industrial Groundwater Permit Capacity (IGWPC)
+IGWPC-1
+Increase Industrial Groundwater Permit Capacity Groundwater permit capacity gap (Bryan, Bulloch, Effingham, Liberty, and McIntosh Cos.) Groundwater Withdrawal (Industrial) N/A Evaluate short-term needs and, if needed, work with EPD to obtain additional permit capacity and/or alternate source of supply (by 01/2025) Evaluate long-term needs and, if needed, work with EPD to obtain additional permit capacity (by 01/2050)  EPD, Industrial water facilities in the Coastal Region
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+Groundwater (GW)
+GW-1
+Develop and Practice Sustainable Groundwater Use  Future groundwater needs in Green Zone  Groundwater Withdrawal (Municipal, Industrial, and Agricultural)  Verify sustainable yield metrics and consider relevant localized impacts (by 01/2015) Provide guidance and implement sustainable groundwater withdrawal rates through 01/2025 Modify Resource Assessments and sustainable yield criteria, if necessary (by 01/2050) EPD, Water Providers outside Red and Yellow
+Zones
+GW-2
+Promote Aquifer- Friendly Land Use Practices    N/A Monitor land use changes and further delineate aquifer recharge areas (by 01/2015)  Encourage land use practices that sustain and protect aquifer recharge areas (by 01/2025) Continue to monitor land use and hydrologic relationships EPD, Municipalities in aquifer recharge areas (within and outside the Coastal Region)
+GW-3
+Research and Analyze Sustainable Groundwater Management     N/A Continue to monitor and improve understanding of historic, current, and future trends in groundwater levels (by 01/2025)  N/A EPD
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+Surface Water (SW)1
+SW-1
+Surface Water Use Within Available Capacity Current and future surface water use outside gap areas  Surface water Withdrawal  Confirm non-gap areas and available surface water resource capacity (by 01/2015)  Continue to apply for permits and use surface water in non- gap areas within the available surface water resource capacity (by 01/2025) Verify flow conditions and gaps EPD, applicable federal agencies, and surface water users in Coastal Region
+SW-2
+Monitor and Evaluate Estuaries    N/A Monitor Atlantic slope river flow conditions  Determine flow conditions that sustain estuary conditions (by 01/2025)  N/A EPD, Coastal Resources Division, Wildlife Resources Division
+Point Sources-Ammonia and Nutrients (PSAN)
+PSAN-1
+Ammonia Limits  Water quality outside gap areas General Wastewater  Identify wastewater treatment facilities that would need to be upgraded and determine processes to implement  Improve/upgrade identified wastewater treatment facilities to comply with ammonia and nutrient limits (by 01/2025)  N/A EPD, Wastewater facilities in the Coastal Region
+PSAN-2
+Enhance Nutrient Treatment            
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+PSAN-3
+Eliminate Illicit Discharges      Identify options for treating illicit discharges to surface waters  Eliminate illicit discharges to surface waters (by 01/2025)   
+Non-Point Sources (NPS) – Urban, Rural, Agricultural, and Forestry Uses
+NPS-1
+Study Human Impacts on Water Quality  Water quality outside gap areas Stormwater (NPDES
+Discharges) Collect data to determine dissolved oxygen, fecal coliform, and nutrient sources  Confirm sources of loading and develop programs to address (by 01/2025) N/A EPD, Municipalities and Utilities within the Coastal Region
+NPS-2
+Monitor and Address NPS Nutrient Loading            
+NPSU-1
+through NPSU-4
+Various Stormwater Management Practices Related to Urban Uses     Select best management practices needed for treating stormwater from urban uses Implement a variety of stormwater best management practices related to urban uses (by 01/2020)    
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+NPSR-1
+Advocate Implementing Road Runoff BMPs      Select best management practices needed for treating stormwater from rural uses Implement a variety of stormwater best management practices related to dirt road maintenance (by 01/2020)   EPD, Counties (Public Works/Roads and Bridges Departments) within the Coastal Region, GDOT and GFC
+NPSF-1
+through NPSF-3
+Various Stormwater Management Practices Related to Forestry Uses  Water quality outside gap areas Stormwater (NPDES
+Discharges) Continue to support existing best management practices programs Implement a variety of BMPs related to forestry and agricultural uses and continue monitoring of Forestry BMPs (by 01/2020) N/A Georgia Forestry Commission, and possibly county commissions
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+NPSA-1
+through NPSA-5
+Various Stormwater Management Practices Related to Agricultural Uses            GSWCC,
+Agricultural users within the Coastal Region
+TMDL-1
+through TMDL-3
+Evaluate Impaired Segments and Sources      Collect data to confirm impairment and determine sources  Remove streams listed due to “natural sources” (by 01/2020)
+
+Refine river/stream reach length for impaired waters (by 01/2025) Continue collecting data to monitor impairment sources; Support reassessment of stream segment classifications (by 01/2050) EPD, Municipalities and Utilities within the Coastal Region
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+NUT-1
+Link Nutrient Loading With Current Land Use Water quality outside gap areas Stormwater (NPDES
+Discharges) Align current land use with nutrient loading data to optimize management practice based on consideration of land uses and actual nutrient contribution to loading Support research and development of tools such as the Southern Group of State Foresters and USFS Sediment Prediction modeling tool being developed by Auburn University (by 01/2025)  N/A EPD, GSWCC,
+Georgia Forestry Commission, Municipalities and Utilities within the Coastal Region, and county commissions
+Educational Practices (EDU)
+EDU-1
+through EDU-4
+Various Educational and Outreach Programs on Conservation/ Water Quality  Education/ outreach support N/A Develop educational programs on water conservation, septic system maintenance, and stormwater management  Complete educational programs on water conservation, septic system maintenance, and stormwater management Continue educational programs on water conservation, septic system maintenance, and stormwater management EPD, State Agencies with WCIP responsibilities, Municipalities and Utilities within the Coastal Region
+ 
+
+Table 7-1: Implementation Schedule
+Management Practice No. (See Table 6-
+1)  Issues to be Addressed and Resource(s) Affected Permittee Category of Responsible Parties
+(if applicable) For All Actions: Initial Implementation Step(s) and Associated Date(s)  For Short-term Actions (2010-2020)  For Long-term Actions
+(2020-2050) Responsible Parties
+        Further Action to Complete Implementation and Associated Dates  
+Ordinance and Code Policy Practices (OCP)
+OCP-1
+through OCP-4
+Stormwater Management through Ordinance/
+Code Updates and
+Integrated Planning Ordinances and code policies  N/A Identify ordinances and standards to implement/update stormwater and land development (including green space and Erosion and Sedimentation Control Measures)
+
+Encourage coordinated environmental planning  Pass ordinances and develop standards on stormwater management and land development (by 01/2025)
+
+Conduct regional environmental planning (e.g., land use, water supply, stormwater, wastewater, etc.)  Continue to regulate stormwater management and land development actions consistent with ordinances and codes implemented  EPD, Regional Commissions, Municipalities and Utilities within the Coastal Region and county commissions
+Notes:
+1For agricultural water users in the Coastal Region, focus management practices on surface water permit holders and new surface water permit requests in Bulloch, Bryan, Effingham, Chatham, and Long Counties; Kings Ferry and Eden nodes (Ogeechee and Canoochee Rivers).
+2The role/selection of specified practice in addressing current gaps and future forecasted needs in the gap areas requires additional data from the Bi-State Salt Water Intrusion Stakeholder Process between Georgia and South Carolina.
+3Possible areas include: Effingham, Bulloch, Evans, Tattnall, Long, McIntosh, Glynn, and Camden Counties [(Effingham, Chatham Red Zone); [Bryan, Liberty Yellow Zones)]
+4Additional industrial wastewater capacity may be needed. EPD to update and refine discharge limit databases to confirm flow and quality assumptions.
+ 
+
+
+7.2 Fiscal Implications of Selected Water Management Practices
+The following subsections discuss planning level cost estimates for the water management practices selected by the Coastal Council and potential funding sources and options. Successful implementation of the Regional Water Plan is highly dependent on the ability of state and local governments, water providers, and utilities, to fund the needed implementation actions.
+
+Planning Level Cost Estimates
+Planning level cost estimates were prepared for each management practice as shown in Table 7-2 using planning guidance documents, the knowledge base of previous state and utility planning efforts, and other sources of information, as listed below. The guidance documents and sources used to inform the planning level cost information in Table 7-2 have not been updated. Accordingly, the values shown below should only be used as a general guide. Specific costs should be further evaluated and updated before being relied upon.
+
+• Georgia Environmental Protection Division Supplemental Guidance for Planning Contractors: Water Management Practice Cost Comparison dated March 2010 (Revised March 2011).
+
+• Water Conservation Technical Memorandum to Supplement Council’s Plan prepared by CDM for Georgia EPD draft dated July 2011.
+
+• CDM Water Supply Cost Estimation Study prepared for the South Florida Water Management District dated February 2007.
+
+• EPA Report titled Costs of Urban Stormwater Control Practices – Preliminary Report dated February 5, 2006.
+
+• EPA Report titled Costs of Urban Stormwater Control dated January 2002.
+• St. Johns River Water Management District Report titled Water Supply Needs and Sources Assessment Alternative Water Supply Strategies Investigation, Water Supply and Wastewater Systems Component Cost Information dated 1997 (Publication Number SJ97-SP3).
+
+• Preliminary estimates of production well yields and costs from local licensed well drillers in Georgia (Bishop Well and Pump Service and Grosch Irrigation Company.)
+
+• Irrigation Conservation Practices Appropriate for the Southeastern United States. Project Report 32. Prepared in cooperation with the Georgia DNR, EPD under Proposal No. ES61135FC1.
+ 
+
+• Groundwater Flow Modeling of the Coastal Plain Aquifer System of Georgia. Draft Report completed for EPD as part of State of Georgia Groundwater Resource Assessment (December 2009).
+
+• FY 2004 Sussex Conservation District Cover Crop Program Fact Sheet. Sussex Conservation District, Georgetown, Delaware. Dated 2003.
+
+• North Carolina State University Department of Forestry Costs of Forestry Best Management Practices in the South: A Review.
+
+• Recent bid tabulations (as of 2011) for wastewater treatment facilities.
+
+The cost estimates are unit cost estimates where there is a lack of detail or specificity about the management practice. For example, for an inter-basin transfer of water, the cost is driven by the length and size of the pipeline and the quantity to be transferred. If the connection locations and/or the transfer quantity are not known, a unit cost per mile of pipeline is given. Where there is detail about the management practice, unit cost data were used to develop an approximate capital/programmatic cost. The capital costs were adjusted to 2010 dollars using the Engineering News Record Cost Index. In summary, some cost estimates are unit costs with different unit basis and some costs are approximate capital costs. Therefore, each management practice was assigned a cost (where applicable) rather than rolling up the costs into general categories since they may not be additive. The cost information provided in this document will be used to pursue loans, grants, and other funding options that can be prioritized throughout the region.
+
+Funding Sources and Options
+Several different funding sources and options will be used to secure funding for the different management practices outlined in this Plan including:
+
+• The State Revolving Fund Program administrated by GEFA
+• Other State of Georgia Funding Programs
+• State and Federal Grants
+• Water/Wastewater System Revenues
+• State and local government incentive programs
+
+More details on potential loan and grant programs are provided for the management practices in Table 7-2. Below is a list of some of the larger organizations and agencies that provide funding for the types of management practices recommended in this Plan. It is important to note that funding sources and opportunities change on a yearly basis.
+ 
+
+
+Environmental Protection Agency (EPA) Programs
+
+The EPA provides grants to States, non-profits, and educational institutions to support high-quality research that will improve the scientific basis for decisions on national environmental issues and help the EPA to achieve its goals. The EPA provides research grants and graduate fellowships; supports environmental education projects that enhance the public’s awareness, knowledge, and skills to make informed decisions that affect environmental quality; offers information for State and local governments and small businesses on financing environmental services and projects; and provides other financial assistance through programs such as the Drinking Water State Revolving Fund (DWSRF), the Clean Water State Revolving Fund (CWSRF), and the Brownfield Program. More information on the EPA can be accessed at: www.epa.gov.
+
+The EPA offers the following grant programs:
+
+• Continuing Program Grants
+• Project Grants
+• Clean Water State Revolving Fund Program
+• Water Pollution Control Program
+• Water Quality Cooperative Agreements Program
+• Water Quality Management Planning Program
+• Onsite Wastewater Management Planning Program
+• Drinking Water State Revolving Fund Loan Program Georgia Environmental Protection Division (EPD)
+The mission of EPD is to protect and restore Georgia’s environment. EPD takes the lead in ensuring clean air, water and land. With their partners, EPD pursues a sustainable environment that provides a foundation for a vibrant economy and healthy communities. As a result of the Clean Water Act, each year the State of Georgia receives funding from the U.S. Environmental Protection Agency to assist the State with addressing environmental issues. EPD offers the following grant programs:
+
+• Section 319 (h) Grants
+• Section 604 (b) Grants
+ 
+
+
+U.S. Department of Agriculture – Natural Resource Conservation Service (USDA- NRCS) Conservation Programs
+
+The USDA-NRCS offers a number of funding opportunities as a result of the Farm Security and Rural Investment Act of 2002. This Act is landmark legislation for conservation funding and for focusing on environmental issues. The conservation provisions will assist farmers and ranchers in meeting environmental challenges on their land. This legislation simplifies existing programs and creates new programs to address high priority environmental and production goals. The USDA-NRCS offers the following funding options:
+
+• Agricultural Conservation Easement Program
+• Conservation of Private Grazing Land Program
+• Environmental Quality Incentives Program
+• Resource Conservation and Development Program
+ 
+
+
+Table 7-2:  Cost Estimates for the Implementation Responsibilities
+Management Practice No. (See Table 6-1) Issue to Be Addressed Capital/ Programmatic Cost  Funding Sources and Options1  Notes and Sources for Costs
+Water Conservation (WC)
+WC-1
+Tier 1 and Tier 2 Measures for Municipal and Industrial Users Help meet current and forecasted surface water and groundwater supply needs throughout the region $0.1 to $0.2 million (M)  Local governments; utilities  Supplemental Guidance
+WC-2
+Tier 3 and Tier 4 Measures for Municipal and Industrial Users in the Red and Yellow Zones   $3.5M   50 golf courses times $70,000 per Reuse Feasibility Study
+WC-3
+Audits    $1,300/system State/federal loan or grant Irrigation Conservation Practices Appropriate for the Southeastern United States
+WC-4
+Metering    $0.47M    (528 existing irrigation pumps) times 10% increase in pumps times $800/totalizer
+WC-5
+Inspections   $0 to $0.9M   $0 to $0.7 per capita per Supplemental Guidance. Total population in 2050: 1,266,000
+WC-6
+Minimize High- Pressure Systems   $4,700/system   Irrigation Conservation Practices Appropriate for the Southeastern United States
+WC-7
+Efficient Planting Methods    $0.1 to $0.2M   Educate farmers on benefits of cropping and crop rotation
+WC-8
+Conservation Tillage    $0.1 to $0.2M   Educate farmers on benefits of conservation tillage
+WC-9
+Control Loss    $0.1 to $0.2M   Educate farmers on practices to prevent water loss through more efficient detention of rainfall
+WC-10
+End-Gun Shutoffs    $700/system   Irrigation Conservation Practices Appropriate for the Southeastern United States
+ 
+
+
+Table 7-2:  Cost Estimates for the Implementation Responsibilities
+Management Practice No. (See Table 6-1) Issue to Be Addressed Capital/ Programmatic Cost  Funding Sources and Options1  Notes and Sources for Costs
+WC-11
+Low Pressure Systems  Help meet current and forecasted surface water and groundwater supply needs throughout the region $3,400/system State/federal loan or grant Irrigation Conservation Practices Appropriate for the Southeastern United States
+WC-12
+Application Efficiency Technologies   $2,000/system   
+Additional/Alternate to Present Groundwater Source(s) (AAGS) – Gap: 21 to 99 MGD
+AAGS-1
+Cross- Jurisdictional Collaboration Current and Future Groundwater Use in Gap Areas $150M to
+$240M GEFA
+Drinking Water State Revolving Fund Loan Program and Georgia Fund Loan  Includes new wells, cost of groundwater treatment, and pipeline for 29 to 50 MGD and 10 miles of pipeline. Unit costs for wells taken from local driller cost data. Unit costs for treatment and pipelines taken from Supplemental Guidance. Costs do not include storage.
+AAGS-2
+Increase Surface Water Supplies   $170M to
+$390M   Includes cost of surface water treatment and pipeline for 29 to 50 MGD and 10 miles of pipeline. Unit costs for treatment and pipelines taken from Supplemental Guidance. Costs do not include storage.
+AAGS-3
+Additional Reservoir Storage    $0.21M to $15M  GEFA
+Georgia Reservoir and Water Supply
+Fund  $0.01M to $0.15M/MGD to increase storage at existing surface water reservoirs from Supplemental Guidance and CDM Water Supply Cost Estimation Study
+AAGS-4
+Study Aquifer Storage and Recovery in Addressing Gaps   $0.5M to $1M  GEFA
+Georgia Reservoir and
+Water Supply Fund/Utilities Various recent similar projects
+AAGS-5
+Surface Water Storage from Aquifers   $0.21M to $99M    $0.015M to $1M/MGD from Supplemental Guidance, CDM Water Supply Cost Estimation Study and various recent projects. Higher end of cost range includes pretreatment to prevent arsenic mobilization in ASR storage zone.
+ 
+
+
+Table 7-2:  Cost Estimates for the Implementation Responsibilities
+Management Practice No. (See Table 6-1) Issue to Be Addressed Capital/ Programmatic Cost  Funding Sources and Options1  Notes and Sources for Costs
+AAGS-6
+Additional Aquifer Use  Current and Future Groundwater Use in Gap Areas $0.5M to $1M  GEFA
+Drinking Water State
+Revolving Fund Loan Program
+(DWSRF) Various recent similar projects
+AAGS-7
+Reuse   $74M to $400M Water/ Wastewater
+system revenues $0.50 to $1.50/1,000 gallons. Assumes secondary treatment and no additional WWTP upgrades.
+AAGS-8
+Determine Desalination Feasibility    $290M to
+$400M GEFA
+Georgia Reservoir and Water Supply Fund Desalination: 29 MGD. $8M to
+$12M per MGD from CDM Water Supply Cost Estimation Study and Supplemental Guidance. Also includes 10 miles of pipeline. Unit costs for pipeline taken from Supplemental Guidance. Costs do not include storage.
+AAGS-9
+Determine Reverse Osmosis Feasibility   $620M to
+$920M   Brackish Water RO: 99 MGD at
+$5M to $8M per MGD from CDM Water Supply Cost Estimation Study and supplemental Guidance. Also includes 10 miles of pipeline. Unit costs for pipeline taken from Supplemental Guidance. Costs do not include storage.
+AAGS-10
+Inter-basin Transfers   $25M to $250M GEFA
+Georgia Reservoir and
+Water Supply Fund Inter-basin transfer function of piping cost. Assume 36 to 84-in pipe costs $4.8M to $12.7M per mile and 5 to 20 mile pipe runs.
+AAGS-11
+Monitor Aquifer and additional Modeled Simulations  Current and Future Groundwater Use in Gap Areas $50K to $100K EPD and possibly U.S. Army Corps of Engineers, Savannah District  Various recent similar projects
+ 
+
+
+Table 7-2:  Cost Estimates for the Implementation Responsibilities
+Management Practice No. (See Table 6-1) Issue to Be Addressed Capital/ Programmatic Cost  Funding Sources and Options1  Notes and Sources for Costs
+Institutional (I)
+I-1
+Cross- Jurisdictional Groundwater Coordination Group  Current and Future Groundwater Use in Gap Areas $0.5M to $1M  State incentive programs  Various recent similar projects
+Data Collection/Additional Research (DCAR)
+DCAR-1
+Agricultural Consumption Data Current and Future Surface Water Use in Gap Areas $0.25M  State incentive programs  Various recent similar projects
+DCAR-2
+Source of Supply Data to Refine Forecasts   $0.5M Local governments; State incentive programs 
+DCAR-3
+Better Understand Demand and Impacts on Projected Gaps    $0.5M   
+DCAR-4
+Improve Data Quality and Analysis   $0.2M USDA Rural Development Water and
+Wastewater
+loan/grant  
+DCAR-5
+Irrigation Efficiency Education and Research    $0.1M   
+DCAR-6
+Understand Optimum Application Methods    $0.05M  Clean Water Act Section 319(h) Grants 
+ 
+
+
+Table 7-2:  Cost Estimates for the Implementation Responsibilities
+Management Practice No. (See Table 6-1) Issue to Be Addressed Capital/ Programmatic Cost  Funding Sources and Options1  Notes and Sources for Costs
+DCAR-7
+Minimize Groundwater Use Impacts to Surface Water   $0.075M Local governments; State incentive programs 
+DCAR-8
+Analyze Addressing Extreme Conditions Current and Future Surface Water Use in Gap Areas $0.125M State incentive programs  Various recent similar projects
+DCAR-9
+Study Aquifer Potential to Address Gaps   $0.15M  GEFA
+Georgia Reservoir and
+Water Supply Fund 
+Additional/Alternate to Existing Surface Water Supply Sources (ASWS)
+ASWS-1
+Consider Low Flow Conditions in Future Surface Water Permitting Current and Future Surface Water Use in Gap Areas $0.15M per applicant  State incentive programs; utilities Various recent similar projects. Includes modeling, permit application, and monitoring.
+ASWS-2
+Incentives for Dry-Year Releases from Ponds   $1M to $2M  State incentive programs  
+ASWS-3
+Substitute Future Surface Water Use with Groundwater in Dry Years   $0.01M to
+$0.15M per MGD  Georgia Fund Loan; Georgia Reservoir and
+Water Supply Fund Local well driller data and Supplemental Guidance
+ASWS-4
+Substitute Existing Surface Water Use with Groundwater in Dry Years   $0.01M to
+$0.15M per MGD    
+ 
+
+
+Table 7-2:  Cost Estimates for the Implementation Responsibilities
+Management Practice No. (See Table 6-1) Issue to Be Addressed Capital/ Programmatic Cost  Funding Sources and Options1  Notes and Sources for Costs
+ASWS-5
+Opportunities and Incentives for Dry-Year Releases from Ponds   $1.1M to $1.4M per mile State incentive programs  Pipeline cost to connect ponds to nearby rivers. Assume 1 to 2 mile pipe runs. Assume pipe diameters of 10 to 12 inches. Unit costs from Supplemental Guidance.
+ASWS-6
+Ecological Restoration Incentives   $0.1M/ac  Clean Water Act Section 319(h) Grants Supplemental Guidance
+ASWS-7
+Land Management Incentives  Current and Future Surface Water Use in Gap Areas $0 to $1/capita Clean Water State Revolving
+Fund Loan
+Program Supplemental Guidance. Total population in 2050: 1,266,000
+ASWS-8
+Incentives for Greater Wastewater Return Flows    $0.1M to $1M per MGD    Supplemental Guidance
+ASWS-9
+Multi-Region Reservoir    $0.1M to
+$0.35M per MG GEFA
+Georgia Reservoir and Water Supply
+Fund  
+ASWS-10
+Inter-Basin Transfers   $2.2M per mile    Inter-basin transfer is a function of piping cost. Assume 18 inch pipe. Unit cost from Supplemental Guidance.
+Point Sources – Dissolved Oxygen (PSDO)
+PSDO-1
+Collect Water Quality Data  Water Quality Gaps  $0.25M
+to $0.5M  Local governments; utilities  Various recent similar projects
+PSDO-2
+Point Discharge Relocation    $0.1M to $0.3M  GEFA
+Georgia Fund Loan; Utilities  
+PSDO-3
+Enhance Point Source Treatment    $7M to $10M per MGD GEFA
+Georgia Fund Loan; Utilities; CWSRF Supplemental Guidance
+ 
+
+
+Table 7-2:  Cost Estimates for the Implementation Responsibilities
+Management Practice No. (See Table 6-1) Issue to Be Addressed Capital/ Programmatic Cost  Funding Sources and Options1  Notes and Sources for Costs
+Available Municipal Wastewater Permit Capacity (MWWPC)
+MWWPC-1
+Increase Wastewater Permit Capacity Wastewater Permit Capacity Gap  $4M to $10M per MGD GEFA
+Georgia Fund Loan Supplemental Guidance
+Available Industrial Wastewater Permit Capacity (IWWPC)
+IWWPC-1
+Increase Wastewater Permit Capacity Wastewater Permit Capacity Gap  $0.1M to $0.2M    Various recent similar projects
+Municipal Groundwater Permit Capacity (MGWPC)
+MGWPC-1
+Increase Municipal Groundwater Permit Capacity  Groundwater Permit Capacity Gap $0.025M to
+$0.05M  Drinking Water State Revolving
+Fund
+(DWSRF)
+Loan Program  Various recent similar projects
+Industrial Groundwater Permit Capacity (IGWPC)
+IGWPC-1
+Increase Industrial Groundwater Permit Capacity Groundwater Permit Capacity Gap $0.025M to
+$0.05M  DWSRF Loan Program  Various recent similar projects
+Groundwater (GW)
+GW-1
+Develop and Practice Sustainable Groundwater Use  Groundwater Needs Outside Gap Areas $0.01M to
+$0.15M per MGD  Georgia Reservoir and
+Water Supply Fund Local well driller data and Supplemental Guidance
+GW-2
+Promote Aquifer- Friendly Land Use Practices    $0.15M
+to $1.3M  State, local governments/ utilities $0 to $1/capita. Total population in 2050: 1,266,000
+GW-3
+Research and Analyze Sustainable Groundwater Management   $0.2M to $0.4M    Various recent similar projects
+ 
+
+
+Table 7-2:  Cost Estimates for the Implementation Responsibilities
+Management Practice No. (See Table 6-1) Issue to Be Addressed Capital/ Programmatic Cost  Funding Sources and Options1  Notes and Sources for Costs
+Surface Water (SW)
+SW-1
+Surface Water Use Within Available Capacity Surface Water Needs Outside Gap Areas $0.05M to
+$0.1M per applicant Local governments/ utilities  Includes cost of permitting and impact evaluation
+SW-2
+Monitor and Evaluate Estuaries    $0.1M to
+$0.15M  Coastal Incentive Grant
+Program Various recent similar projects
+Ammonia and Nutrients (PSAN)
+PSAN-1
+Ammonia Limits  Water Quality Point Source Needs  $4M to $10M per MGD CWSRF;
+Georgia Fund Loan Supplemental Guidance
+PSAN-2
+Enhance Nutrient Treatment    $7M to $11M per MGD   
+PSAN-3
+Eliminate Illicit Discharges    $0.2M to
+$0.5M per MGD   Recent Bid Tabs
+Dissolved Oxygen, Fecal Coliform, Nutrients, and Other Impairments
+NPS-1
+Study Human Impacts on Water Quality  Water Quality Non-Point Source (NPS) Needs  $0.2M to $0.4M  Clean Water Act Section 319(h) Grants
+(NPS
+Implementa- tion Grant) EPA Manual of Costs of Urban Stormwater Control (2002)
+NPS-2
+Monitor and Address NPS Nutrient Loading    $0.5M to
+$1.5M   Various recent similar projects
+Urban Best Management Practices (NPSU)
+NPSU-1
+Control Erosion Water Quality NPS Needs $0 to $1.3M Clean Water Act Section
+319(h) Grants (NPS
+Implementa- tion Grant) $0 to $1 per capita. Total population in 2050: 1,266,000
+ 
+
+
+Table 7-2:  Cost Estimates for the Implementation Responsibilities
+Management Practice No. (See Table 6-1) Issue to Be Addressed Capital/ Programmatic Cost  Funding Sources and Options1  Notes and Sources for Costs
+NPSU-2
+Manage Stormwater Runoff    $6,000 to
+$65,000 per MG    EPA Manual of Costs of Urban Stormwater Control (2002)
+NPSU-3
+Increase Stormwater Infiltration    $0 to $0.9M   $0 to $0.7 per capita per Supplemental Guidance. Total population in 2050: 1,266,000
+NPSU-4
+Riparian Buffers    $0 to $0.9M GEFA Land Conservation Program  
+Rural Best Management Practices (NPSR)
+NPSR-1
+Advocate Implementing Road Runoff BMPs  Water Quality NPS Needs $2,500 to
+$75,000 per mile of swale CWSRF;
+Clean Water Act Section 319(h) Grants EPA Manual of Costs of Urban Stormwater Control (2002)
+Forestry Best Management Practices (NPSF)
+NPSF-1
+Support Forestry Commission Water Quality Program Water Quality NPS Needs Continue to fund existing programs    
+NPSF-2
+Improve BMP Compliance    Continue to fund existing programs    Costs of Forestry Best Management Practices in the South: A Review
+NPSF-3
+Wetland and Forest Restoration Incentives and Support   $5,000 to
+$9,000 per credit Federal grants  Supplemental Guidance. The costs are based on the cost to purchase credits from a restoration bank.
+Agricultural Best Management Practices for Crop and Pasture Lands (NPSA)
+NPSA-1
+Soil Erosion Reduction Measures Water Quality NPS Needs $0.1M to $0.2M    Irrigation Conservation Practices Appropriate for the Southeastern United States
+ 
+
+
+Table 7-2:  Cost Estimates for the Implementation Responsibilities
+Management Practice No. (See Table 6-1) Issue to Be Addressed Capital/ Programmatic Cost  Funding Sources and Options1  Notes and Sources for Costs
+NPSA-2
+Utilize Buffers   $0 to $0.9M GEFA Land Conservation  $0 to $0.7 per capita per Supplemental Guidance. Total population in 2050: 1,266,000
+NPSA-3
+Livestock Management        
+NPSA-4
+Manure Control    $0.5M to $1M    Sussex (Delaware) Conservation District Cover Crop Program Fact Sheet
+NPSA-5
+Wetland and Forest Restoration Incentives   $0.25M to
+$0.5M   $0 to $0.7 per capita per Supplemental Guidance. Total population in 2050: 1,266,000
+Existing Impairments and Total Maximum Daily Load Listed Streams (TMDL)
+TMDL-1
+Evaluate Impairment Sources Water Quality NPS Needs $0.5M to $1M  Clean Water Act Section 319(h) Grants Various recent similar projects
+TMDL-2
+Analyze Impaired Segments and Sources   $0.035M to
+$0.13M per impairment   
+TMDL-3
+Stormwater Management BMPs    $63M to $100M   $50 to $80 per capita per Supplemental Guidance. Total population in 2050: 1,266,000
+Nutrients – Satilla and Savannah River Nutrient (Phosphorus and Nitrogen) Watershed Models (NUT)
+NUT-1
+Link Nutrient Loading With Current Land Use Water Quality NPS Needs $10 to $150 per acre  Clean Water Act Section 319(h) Grants Align land use with phosphorus and nitrogen loading data
+Educational (EDU)
+EDU-1
+Promote Conservation Programs Future Educational Needs  $0 to $2.8M State incentive programs; Utilities; Local  $0 to $2.25 per capita per Supplemental Guidance. Total population in 2050: 1,266,000
+ 
+
+
+Table 7-2:  Cost Estimates for the Implementation Responsibilities
+Management Practice No. (See Table 6-1) Issue to Be Addressed Capital/ Programmatic Cost  Funding Sources and Options1  Notes and Sources for Costs
+EDU-2
+Stormwater Education    $0 to $2.8M governments 
+EDU-3
+Septic System Maintenance Education   $0 to $0.9M State incentive programs; Utilities; Local governments  $0 to $2.25 per capita per Supplemental Guidance. Total population in 2050: 1,266,000
+EDU-4
+Forestry BMP Education    $0.05M to
+$0.15M    Support Georgia Forestry BMPs
+Ordinance and Code Policy (OCP)
+OCP-1
+Engage Local Governments in Stormwater Issues Future Ordinance and Code Policy Needs  $0 to $0.9M State incentive programs; Utilities; Local governments  $0 to $0.7 per capita per Supplemental Guidance. Total population in 2050:1,266,000
+OCP-2
+Green Space Opportunities and Incentives  Future Ordinance and Code Policy Needs  $0 to $0.9M State incentive programs; utilities, local governments; Georgia Land Conservation Program Green space incentives $0 to
+$0.7 per capita. Total population in 2050:1,266,000
+OCP-3
+Promote Integrated Planning   $0 to $0.9M State incentive programs; Utilities; Local governments  $0 to $0.7 per capita per Supplemental Guidance. Total population in 2050:1,266,000
+OCP-4
+Local Government Erosion Control    $0.05M to
+$0.1M   Enforce Erosion and Sedimentation control practices
+1 Where referenced, GEFA-administered loan programs (e.g., CSWRF, DWSRF) are intended to finance eligible activities related to construction of water infrastructure projects, including site-specific engineering and planning efforts.
+
+7.3.  Alignment with Other Plans
+The Coastal Council’s Plan and management practices selection process was based on identifying and supporting existing policy, planning, and projects. Local comprehensive plans, planned and/or permitted projects were relied upon in developing the Regional Water Plan. This approach is tailored to maintain consistency with, and to maximize support for, locally driven water resource management
+ 
+
+
+decisions. The Coastal Council did identify potential challenges associated with both the cost and technical issues that the region may face; especially regarding water and wastewater needs for both new and aging infrastructure. In addition, addressing existing surface and groundwater gaps must be accomplished in a manner that does not cause adverse impacts to local water users and local governments.
+
+Water resource decisions in the Coastal Georgia Region are affected by regulatory process related to Savannah River water quality and bi-state discussions regarding the Savannah River and salt water intrusion in the Savannah/Hilton Head region. The outcome of these discussions and potential recommendations or other decisions will have important implications for the Regional Water Plan and will need to be incorporated and/or reconciled with the Regional Water Plan as this information becomes available.
+
+The challenges of funding Plan recommendations and addressing future technical and regulatory issues is especially difficult for smaller towns and utilities, agricultural water uses, and small businesses that rely on natural resources. The successful implementation of the Regional Water Plan will be dependent on the principles of support and leadership by state agencies, in a collaborative setting, utilizing incentives and financial assistance to the extent possible.
+
+7.4.  Recommendations to the State
+The Coastal Council supports the concept of regional water resource planning with a focus on planning Councils composed of local governments, water users, water providers, industry, business and affected stakeholders. Local representatives are typically most familiar with local water resource issues and needs. The State has a vital role providing technical support, guidance, and funding to support locally focused water resource planning.
+
+The Coastal Council is sensitive to unintended consequences if Plan recommendations become mandates. The State must help balance Plan recommendations with assessing measurable progress toward Plan implementation. If additional rules or other administrative or regulatory actions are deemed necessary, the State should work with Councils to help ensure workable solutions.
+
+The following specific recommendations to the State are provided to help aid in the successful implementation of the Plan.
+
+Georgia Environmental Protection Division (EPD)
+
+• Consider “institutionalizing” planning. This would entail a long-term commitment of staff and funding to: monitor and support Plan recommendations; coordinate improved data collection, management and analysis; continue to develop and improve Resource Assessment tools; and help provide funding, permitting and technical support to address gaps and water resource needs.
+ 
+
+• Support and facilitate the continued implementation of the Savannah Harbor 5R plan that was approved by EPA in 2016. EPD’s assistance in coordinating, facilitating, and providing technical support during implementation of the 5R Plan is essential. The Coastal Council supports this process and has indicated that continued implementation of pollutant loading strategies (management practices) will continue to improve dissolved oxygen conditions in the lower Savannah River.
+
+• Provide leadership, coordination, and technical support to continue stakeholder collaboration, coordination and implementation of management practices that will continue to improve the regional management of the Floridan aquifer, as outlined in this plan, and in conjunction with the Coastal Georgia Water & Wastewater Permitting Plan (CPP) that was recently updated in 2015. The Coastal Georgia Regional Water Plan provides recommended management practices that are in alignment with the CPP and that also continue to advance the adopted Vision and Goals of the Coastal Georgia Regional Water Planning Council. A continued stakeholder process is encouraged, including on-going monitoring and reporting which are foundational to implementing a plan based on the principles of adaptive management. Consequently, EPD will also need to continue to serve as a “bridge” between the State water planning process and this stakeholder process.
+
+• Work with EPD’s Agricultural Water Metering Program, as well as other partners, including but not limited to, the University of Georgia and the Georgia Department of Agriculture to improve agricultural water use data collection and management. This effort would focus on refining source(s) of supply for multiple irrigation sources, continuing to assess data on crop water requirements, evaluating the effects of farm ponds on direct irrigation withdrawals and the hydrologic cycle, and further research on crop consumptive use. This data in turn should be coordinated with Resource Assessment tools to ensure accurate simulation of any gaps and assumptions.
+
+• Support completion, maintenance and improvement of the Agricultural Water Use Measurement Program, which is aimed at cost effectively collecting agricultural water use data across the State, and integrating cooperative arrangements with the private sector and partnerships with other State agencies. This program is a vital component to helping the State and regions effectively manage and utilize water resources.
+
+• Focus funding support and permitting assistance to projects and programs aimed at addressing gap areas. Where possible, leverage federal funds to help support and expedite project implementation.
+
+• Consider collaborative approaches to collecting more standardized water use data and improving data on water demands. This would include continued improvement and updating databases used in the planning process. It would
+ 
+
+
+also involve working with the Georgia Municipal Association, Georgia Association of County Commissioners, and other relevant stakeholders to improve water use information.
+
+• Working with Georgia Environmental Finance Authority, examine opportunities to improve coordination among water providers and users and create incentives to maximize existing infrastructure and coordinated operations.
+
+• Track, support, and participate in South Carolina water planning efforts. Successful planning in the Coastal Region and Savannah-Upper Ogeechee Region will benefit from constructive and collaborative engagement of South Carolina on issues associated with the current and future use of the Savannah River for both water supply and wastewater assimilation. Sustainable use and management of the Savannah River is critical to the social and economic future of both Georgia and South Carolina.
+
+• Continue to engage in dialogue and data-sharing with the States of Florida and South Carolina regarding current and forecasted groundwater use. South Georgia, North Florida, and South Carolina rely on the Floridan aquifer to meet water supply needs and it is in EPD’s best interest to include the most accurate available information on growth and groundwater use in both states in the Resource Assessment modeling.
+
+Georgia Environmental Finance Authority (GEFA)
+
+• Meeting forecasted water supply needs will require stable and flexible funding sources to assist water users and water and wastewater utilities in meeting forecasted needs. A stable GEFA financing source(s) should be maintained for necessary water supply, water and wastewater plant construction, and plant upgrades to address current and future gaps.
+
+Georgia Forestry Commission (GFC)
+
+• Continue to support and fund the GFC Forestry Best Management Practices Program. Providing education and incentives to control erosion and sedimentation will help the region prevent/address TMDL listed segments, reduce nutrient loadings, and support wetland areas. This will have the benefit of helping sustain baseflow conditions of streams and water quality.
+
+Georgia Soil and Water Conservation Commission (GSWCC)
+
+GSWCC should continue to provide leadership and locally focused efforts in the following programs:
+
+• Continue education and outreach associated with Urban Erosion and Sediment Control program including certification of individuals involved in land disturbing
+ 
+
+
+activities and on-site implementation of erosion, sedimentation, and pollution control plans. This will help address the water quality needs of the region.
+
+• Continue education and outreach efforts to agricultural interests to inform farmers of available technologies and funding sources to make more efficient use of water resources without incurring hardship. Support Georgia Agricultural Conservation Incentive program, which provides funding support to help implement conservation practices. Funding for this program is essential to help implement conservation measures, especially in the regional watersheds where there are surface water gaps.
+
+Office of State Planning and Budget (OPB)
+
+• Obtain population census data and compare to population forecasts to track trends in the accuracy of population projections
+• Revise population forecasts and support ongoing state-wide planning Department of Community Affairs (DCA)
+• Identify and encourage local governments to integrate Regional Plan management practices with land use and water quality/quantity nexuses into their comprehensive planning efforts.
+• Continue to promote coordinated environmental planning Georgia Department of Agriculture (DOA)
+• Provide technical information and participate in needed studies to better characterize agricultural water uses and quantification of shortages to low flow conditions.
+
+• Assist with outreach and education of agricultural uses to obtain greater understanding of surface water resource limitations, both quality and quantity, and to help improve the implementation rate of management practices. Assist EPD and other state agencies in coordinating with the Georgia Farm Bureau to accomplish the above goals.
+
+Georgia Department of Natural Resources [Coastal Resources Division (CRD) and Wildlife Resources Division (WRD)]
+
+• Continue to monitor resources and help sustain, enhance, protect and conserve Georgia’s natural, historic and cultural resources.
+
+• Provide technical and ecosystem information to help support state water planning needs.
